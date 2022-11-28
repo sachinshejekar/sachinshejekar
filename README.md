@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinshejekar
 - 👀 I’m interested in building scalable solutions
 - 🌱 I’m currently learning go lang
-- 💞️ I’m looking to collaborate on javan Anular & go lang projects
+- 💞️ I’m looking to collaborate on java Angular & go lang projects
 - 📫 How to reach me @ https://www.linkedin.com/in/sachin-shejekar/
 
 <!---
